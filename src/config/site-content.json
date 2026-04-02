@@ -5,7 +5,7 @@
 		"username": "OwO"
 	},
 	"theme": {
-		"colorBrand": "#CE5E43",
+		"colorBrand": "#35bfab",
 		"colorPrimary": "#334f52",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#1fc9e7",
@@ -15,14 +15,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#627418",
-		"#EDC087",
-		"#7551CB",
-		"#7B7799",
-		"#E9EE42",
-		"#CB8E70",
-		"#5EF996",
-		"#F02294"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
