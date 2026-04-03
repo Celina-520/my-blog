@@ -10,17 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "Neumorphism",
-		"url": "https://neumorphism.io/",
-		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 2
-	},
-	{
 		"name": "Nucleo",
 		"url": "https://nucleoapp.com/app/?library=core",
 		"logo": "/images/share/7e720f35557fa9de.svg",
