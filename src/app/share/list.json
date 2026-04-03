@@ -10,17 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "removebg",
-		"url": "https://www.remove.bg/zh",
-		"logo": "/images/share/859bfb2ef1c6a503.svg",
-		"description": "AI 抠图工具，特点是界面简洁，效果比 windows 自带的去除背景会更好一些，缺点是有免费有导出大小限制",
-		"tags": [
-			"图片",
-			"AI"
-		],
-		"stars": 3
-	},
-	{
 		"name": "Neumorphism",
 		"url": "https://neumorphism.io/",
 		"logo": "https://neumorphism.io/apple-touch-icon.png",
@@ -222,5 +211,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Remove Photos",
+		"logo": "https://favicon.pub/remove.photos",
+		"url": "https://remove.photos/",
+		"description": "在线常用抠图工具，特点是抠图支持大像素，不损失质量，还有其他工具使用。\n与其他免费一样不支持批量",
+		"tags": [
+			"免费图片背景移除工具"
+		],
+		"stars": 5
 	}
 ]
