@@ -36,7 +36,7 @@
 			"url": "/images/art/462e9676d70ba5ac.webp"
 		}
 	],
-	"currentArtImageId": "462e9676d70ba5ac",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -54,9 +54,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/",
-			"label": "稀土掘金",
+			"type": "link",
+			"value": "https://github.com/YYsuni/2025-blog-public",
+			"label": "blog",
 			"order": 2
 		},
 		{
