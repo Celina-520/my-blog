@@ -5,22 +5,19 @@
 		"username": "OwO"
 	},
 	"theme": {
-		"colorBrand": "#35bfab",
-		"colorPrimary": "#334f52",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#1fc9e7",
-		"colorBg": "#eeeeee",
+		"colorBrand": "#2fcbe7",
+		"colorPrimary": "#5B423F",
+		"colorSecondary": "#8b7667",
+		"colorBrandSecondary": "#eec25e",
+		"colorBg": "#d4e8f3",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
+		"colorCard": "#ffffff99",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#EDDD62",
-		"#9EE7D1",
-		"#84D68A",
-		"#EDDD62",
-		"#88E6E5",
-		"#a7f3d0"
+		"#f7da3987",
+		"#8fdbe9",
+		"#fffef8"
 	],
 	"artImages": [
 		{
@@ -59,14 +56,14 @@
 		{
 			"id": "juejin",
 			"type": "link",
-			"value": "",
+			"value": "https://9420.de5.net/",
 			"label": "梅狸猫",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "@gmail.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
